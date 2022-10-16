@@ -1,2 +1,2 @@
 # Data-Structure
-Data Structure Lab - Using C++ 
+Data Structure Labs - Using C++ 
