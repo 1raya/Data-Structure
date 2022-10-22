@@ -62,5 +62,6 @@ int main()
     Traverse( a, n);
     Insert(90, 900, a, &n);
     Traverse( a, n);
+    
     return 0;
 }
